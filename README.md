@@ -2,7 +2,7 @@
 
 >Demo of Python's standard library for providing user input via the command line, `argparse`.
 
-- `args.py` requires a positional arguement
+- `args.py` requires a positional argument
 - `optional-args.py` the argument is optional
 - `prog.py` uses both optional and positiona arguments
 
